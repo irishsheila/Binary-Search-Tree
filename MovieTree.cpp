@@ -1,10 +1,8 @@
 // ===========================================
 // Created: October 12, 2016
-// Sheila Doherty
 // Homework Assignment #5: Binary Search Tree
 // Included Files: MovieTree.cpp & DriverHW5.cpp
 // Provided File: MovieTree.hpp
-// Instructor: Elizabeth Boese
 // Description: Builds a binary search tree
 // searches, traverses & deletes tree
 // ===========================================
